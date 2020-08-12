@@ -8,7 +8,7 @@ I'm Nicola Zambello.
   
 Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/.vimrc) user.   
 
-## Ask me about
+## 🔥 Ask me about
 
 - [Volto](https://github.com/plone/volto) and Plone community
 - Open source world
@@ -25,7 +25,7 @@ Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nza
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
 
 
-## &#x1f4c8; My GitHub Stats
+## 📈 My GitHub Stats
 
 <a href="https://github.com/nzambello/nzambello">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzambello&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333&layout=compact" />
