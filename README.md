@@ -20,9 +20,9 @@ Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nza
 
 - Gitter [@nzambello](https://gitter.im/nzambello)
 - Twitter [@nicolazambello](https://twitter.com/nicolazambello/)
-- Instagram [@nicolazambello](https://www.instagram.com/nicolazambello/)
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
+<!-- - Instagram [@nicolazambello](https://www.instagram.com/nicolazambello/) -->
 
 
 ## 📈 My GitHub Stats
