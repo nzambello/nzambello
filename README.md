@@ -4,7 +4,7 @@ I'm Nicola Zambello.
 
 👨🏻‍💻 I'm a frontend developer working from Italy for [RedTurtle](https://redturtle.it).  
 💙 I'm a proud [Plone](https://github.com/plone) community member.  
-🤝 Advocate of privacy and social rights, partecipating in politics with [NVE](https://nuovavoceecologista.it).
+🤝 Advocate of privacy and social rights.
   
 Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/.vimrc) user.   
 
