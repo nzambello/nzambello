@@ -6,7 +6,7 @@ I'm Nicola Zambello.
 💙 I'm a proud [Plone](https://github.com/plone) community member.  
 🤝 Advocate of privacy and social rights.
   
-Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/.vimrc) user.   
+Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/.vimrc) user and green web activist.   
 
 ## 🔥 Ask me about
 
@@ -15,6 +15,7 @@ Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nza
 - Privacy and personal data usage
 - Frontend performances, CSS, ES, TS, React
 - Accessibility
+- Web sustainability
 
 ## 📫 How to reach me
 
