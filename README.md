@@ -2,8 +2,8 @@
 
 I'm Nicola Zambello.
 
-👨🏻‍💻 I'm a frontend developer working from Italy for [RedTurtle](https://redturtle.it).  
-💙 I'm a proud [Plone](https://github.com/plone) community member.  
+👨🏻‍💻 Frontend developer working from Italy.  
+💙 Proud [Plone](https://github.com/plone) community member.  
 🤝 Advocate of privacy and social rights.
   
 Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/.vimrc) user and green web activist.   
@@ -24,15 +24,3 @@ Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nza
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
 <!-- - Instagram [@nicolazambello](https://www.instagram.com/nicolazambello/) -->
-
-
-## 📈 My GitHub Stats
-
-<a href="https://github.com/nzambello/nzambello">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzambello&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333&layout=compact" />
-</a>
-
-<a href="https://github.com/nzambello/nzambello">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nzambello&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333&layout=compact" />
-</a>
-
