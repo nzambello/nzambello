@@ -23,4 +23,5 @@ Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nza
 - Twitter [@nicolazambello](https://twitter.com/nicolazambello/)
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
+- Book an appointment [cal.com/nzambello](https://cal.com/nzambello)
 <!-- - Instagram [@nicolazambello](https://www.instagram.com/nicolazambello/) -->
