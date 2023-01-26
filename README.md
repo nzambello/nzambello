@@ -2,12 +2,16 @@
 
 I'm Nicola Zambello.
 
-👨🏻‍💻 Frontend developer working from Italy.  
-💙 Proud [Plone](https://github.com/plone) community member.  
-🤝 Advocate of privacy and social rights.
-  
-Open source evangelist, CSS grids enthusiast, loyal [VIM](https://github.com/nzambello/dotfiles/blob/master/vim/init.vim) user and green web activist.   
+I’m passionate about **frontend** and a CSS lover, developing usable and **accessible** UIs paying attention to **performances** and **energy consumption**.
+I’m curious and a perfectionist.  
+GitHub-addicted, **Plone** CMS maintainer and foundation member, **Open Source** evangelist.  
+Advocate of **privacy** and **social rights**.  
+Supporter of **Net Neutrality** and Free Software. 
 
+👨🏻‍💻 Frontend developer  
+💙 Proud [Plone](https://github.com/plone) community member  
+🤝 Advocate of privacy and social rights 
+  
 ## 🔥 Ask me about
 
 - [Volto](https://github.com/plone/volto) and Plone community
