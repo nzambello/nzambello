@@ -23,7 +23,6 @@ Supporter of **Net Neutrality** and Free Software.
 
 ## 📫 How to reach me
 
-- Gitter [@nzambello](https://gitter.im/nzambello)
 - Twitter [@nicolazambello](https://twitter.com/nicolazambello/)
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
