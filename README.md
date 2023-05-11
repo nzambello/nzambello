@@ -28,4 +28,9 @@ Supporter of **Net Neutrality** and Free Software.
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
 - Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
 - Book an appointment [cal.rawmaterial.it/nzambello](https://cal.rawmaterial.it/nzambello)
-- Website [rawmaterial.it](https://rawmaterial.it/en)
+
+  
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nzambello/nzambello/output/snake.svg" alt="Snake animation" />
+</div>
