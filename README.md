@@ -25,11 +25,7 @@ Supporter of **Net Neutrality** and Free Software.
 
 - Twitter [@nicolazambello](https://twitter.com/nicolazambello/)
 - LinkedIn [@nzambello](https://www.linkedin.com/in/nzambello/)
-- Mail [nzambello@protonmail.com](mailto:nzambello@protonmail.com)
-- Book an appointment [cal.rawmaterial.it/nzambello](https://cal.rawmaterial.it/nzambello)
+- Mail [hello@nzambello.dev](mailto:hello@nzambello.dev)
+- Book an appointment [cal.nzambello.dev](https://cal.nzambello.dev)
 
   
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nzambello/nzambello/output/snake.svg" alt="Snake animation" />
-</div>
